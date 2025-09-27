@@ -76,11 +76,4 @@
 
 ---
 
-<!-- MINI GAME -->
-### 🎮 Play a Game
-<p align="center">
-  <img src="https://i.imgur.com/Qr9CVY3.png" width="400" alt="dino game preview"/>
-</p>
-<p align="center">
-  🔗 <a href="https://chromedino.com/" target="_blank">Click here to play Dino Game</a>
-</p>
+
